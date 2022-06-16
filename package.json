@@ -1,0 +1,19 @@
+{
+  "name": "ciborg",
+  "version": "1.0.0",
+  "description": "Помощник КИборг",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bezprobeloff/ciborg.git"
+  },
+  "author": "bezprobeloff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bezprobeloff/ciborg/issues"
+  },
+  "homepage": "https://github.com/bezprobeloff/ciborg#readme"
+}
